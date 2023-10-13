@@ -1,3 +1,3 @@
 module go-print
 
-go 1.20.10
+go 1.20
